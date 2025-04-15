@@ -1,10 +1,11 @@
-This is an easy-to-learn web project that shows how to style a simple HTML page using CSS. It explains how to apply various CSS selectors, style different page elements, and link an external CSS file.
+This is an easy-to-learn web project that shows how to style a simple HTML page using CSS. 
+It explains how to apply various CSS selectors, style different page elements, and link an external CSS file.
 
 Features
 
-    The HTML document has an external CSS file linked to it.
+    - The HTML document has an external CSS file linked to it.
 
-    Three different kinds of CSS selectors were used:
+    - Three different of CSS selectors were used:
 
         ID selector for the primary title.
 
@@ -12,10 +13,8 @@ Features
 
         button's element selector.
 
-    applied margins, padding, and borders to an image.
+    - Used a variety of borders, paddings, margins, colors, and fonts to the various sections of the webpage.
 
-    used a variety of borders, paddings, margins, colors, and fonts.
+    - Placed a button that can be clicked in the page's upper-right corner.
 
-    placed a button that can be clicked in the page's upper-right corner.
-
-    Simple JavaScript interactivity was added; when the button is clicked, an alert message appears.
+    - Simple JavaScript interactivity was added; when the button is clicked, an alert message appears.
